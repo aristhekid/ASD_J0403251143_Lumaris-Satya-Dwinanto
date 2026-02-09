@@ -1,0 +1,4 @@
+BRG001,TehBotol,99
+BRNG002,Indomie,89
+BRNG003,Narkoba,2
+woi,aris,2
